@@ -19,7 +19,9 @@
     "addWidgetsdone": false,
     "allboxes": [],
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Map0ef92dd00032f4e"
+    ],
     "containerWeight": 100,
     "containerweight": 100,
     "contentOffsetX": 0,
@@ -50,8 +52,8 @@
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
-                "buttonClosureLeftSideView": "",
-                "buttonClosureRightSideView": "",
+                "buttonClosureLeftSideView": "AS_TitleBar_1bf39836ea374a0f9236b2cc3208ea84",
+                "buttonClosureRightSideView": "AS_TitleBar_9d5617fe986045c181abcf41cb7ce8a5",
                 "buttonText": "",
                 "imageLeftSideView": "ic_drawer.png",
                 "imageRightSideView": "ic_profile.png",
@@ -122,11 +124,11 @@
         "_skin_": "s44c6b3e9af7411da1a9603e963ac3ff",
         "_text_": "",
         "_visible_": true,
-        "buttonClosureLeftSideView": "",
-        "buttonClosureRightSideView": "",
+        "buttonClosureLeftSideView": "AS_TitleBar_1bf39836ea374a0f9236b2cc3208ea84",
+        "buttonClosureRightSideView": "AS_TitleBar_9d5617fe986045c181abcf41cb7ce8a5",
         "buttonText": "",
-        "buttonclosureleftsideview": "",
-        "buttonclosurerightsideview": "",
+        "buttonclosureleftsideview": "AS_TitleBar_1bf39836ea374a0f9236b2cc3208ea84",
+        "buttonclosurerightsideview": "AS_TitleBar_9d5617fe986045c181abcf41cb7ce8a5",
         "buttontext": "",
         "canUpdateUI": true,
         "containerWeight": 0,

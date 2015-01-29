@@ -1,0 +1,25 @@
+{
+	"AS_Map_ab56e2dc0bb84229aae0cae923075fe3": {
+		"id": "AS_Map_ab56e2dc0bb84229aae0cae923075fe3",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "SET_MAP_LOCATION___onPinClick_521f67d469b54965b56f3d2caa7bf8a8",
+				"type": "SET_MAP_LOCATION",
+				"itemType": "FORM",
+				"itemId": "frmHome",
+				"widgetId": "Map0ef92dd00032f4e",
+				"propertyName": "locationData",
+				"propertyObject": {
+					"lat": "0.0",
+					"lon": "0.0",
+					"name": "Cero Cero!",
+					"desc": "Al cero cero nos hemos ido"
+				},
+				"itemKUID": "70eea2eb6e764d0f91a52b321809f795",
+				"widgetKUID": "5c2b81aba9ce4c7983fc7ba163fa440d",
+				"wType": "Map"
+			}
+		]
+	}
+}

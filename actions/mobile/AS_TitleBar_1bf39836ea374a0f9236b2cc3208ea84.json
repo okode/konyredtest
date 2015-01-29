@@ -1,0 +1,14 @@
+{
+	"AS_TitleBar_1bf39836ea374a0f9236b2cc3208ea84": {
+		"id": "AS_TitleBar_1bf39836ea374a0f9236b2cc3208ea84",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISPLAY_POPUP__buttonClosureLeftSideView_d192b1495fd24e9a88e42a72a45246e8",
+				"type": "DISPLAY_POPUP",
+				"popupId": "helloPopUp",
+				"popupKUID": "bcc097c6754a4b92824432fc5f77d0b2"
+			}
+		]
+	}
+}
