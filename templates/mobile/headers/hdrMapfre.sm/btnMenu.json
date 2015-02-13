@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s869ee4ff3b24ac29b79567f143845b3",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "canUpdateUI": true,
+    "centerY": "50%",
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sb9284912126487faf61e51efb080d15",
+    "focusskin": "sb9284912126487faf61e51efb080d15",
+    "height": "80%",
+    "id": "btnMenu",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "441b7056545f49398c3fe46fdf8374c8",
+    "left": "10dp",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_e7cfea135f004b618366c6cfe3570c3b",
+    "onclick": "AS_Button_e7cfea135f004b618366c6cfe3570c3b",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "cntMain",
+    "pf": "hdrMapfre",
+    "render": true,
+    "showProgressIndicator": false,
+    "showprogressindicator": false,
+    "skin": "s869ee4ff3b24ac29b79567f143845b3",
+    "text": "",
+    "top": "0dp",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "35dp",
+    "zIndex": 1,
+    "zindex": 1
+}

@@ -1,0 +1,13 @@
+{
+	"AS_Button_018f47f92aa14ab89ce58a4bc8ce8277": {
+		"id": "AS_Button_018f47f92aa14ab89ce58a4bc8ce8277",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "DISMISS_POPUP_helloPopUp_onClick_a54c328cb36641a2ac92e9f51d8f5226",
+				"type": "DISMISS_POPUP",
+				"popupKUID": "bcc097c6754a4b92824432fc5f77d0b2"
+			}
+		]
+	}
+}

@@ -1,0 +1,289 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": true,
+    "_data_": [
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Autos"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hogar"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Médico"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Viaje"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Comunidades"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Seguro Agrario"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "240dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_rowTemplateId": "CopyFBox0112316c70b7d41",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "bounces": true,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 6,
+    "data": [
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Autos"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hogar"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Médico"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Viaje"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Comunidades"
+            }
+        },
+        {
+            "Image0b3405c6be91248": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "Label02e3e5385e54044": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Seguro Agrario"
+            }
+        }
+    ],
+    "disabledSkins": {
+        "widgetSkin": "sf1caa292c7c4444a77456b2f89ce54d"
+    },
+    "enableDictionary": false,
+    "enabled": false,
+    "enabledictionary": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedTemplate": "CopyFBox0112316c70b7d41",
+    "generatedtemplate": "8e89da623ce74efaa907792be796c029",
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "height": "240dp",
+    "id": "segLeftMenu",
+    "indicator": "rowselect",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "enableDictionary": false,
+            "indicator": "rowselect",
+            "showProgressIndicator": false
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "19a059107f5041598b37205f4d39037d",
+    "left": "0dp",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "pageOnDot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "vdistance": 1
+    },
+    "parent": "cntMenus",
+    "pf": "hdrMapfre",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowFocusSkin": "s13700586f7a4be1b074e1b9c030094a",
+    "rowSkin": "s5cab7ece5524937a3aa29dba495adf8",
+    "rowTemplateId": "8e89da623ce74efaa907792be796c029",
+    "rowcounter": 5,
+    "rowfocusskin": "s13700586f7a4be1b074e1b9c030094a",
+    "rowskin": "s5cab7ece5524937a3aa29dba495adf8",
+    "rowtemplate": "CopyFBox0112316c70b7d41",
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "sdafdacd7de541f0baa66fe74341cfef",
+    "sectionheaderskin": "sdafdacd7de541f0baa66fe74341cfef",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "64646400",
+    "separatorRequired": false,
+    "separatorThickness": 0,
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showProgressIndicator": false,
+    "showScrollbars": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 512,
+        "widthRatio": 0
+    },
+    "top": "0dp",
+    "viewType": "tableview",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {
+        "Image0b3405c6be91248": "Image0b3405c6be91248",
+        "Label02e3e5385e54044": "Label02e3e5385e54044"
+    },
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Image0b3405c6be91248": "Image0b3405c6be91248",
+        "Label02e3e5385e54044": "Label02e3e5385e54044"
+    },
+    "width": "80%"
+}

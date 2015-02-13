@@ -52,6 +52,7 @@
                     "icon": {
                         "default": "option1.png"
                     },
+                    "onClick": null,
                     "kuid": "37540d315c2c4a5ab179b2a074cff7f5"
                 },
                 {
@@ -60,6 +61,7 @@
                     "icon": {
                         "default": "option2.png"
                     },
+                    "onClick": null,
                     "kuid": "85c0dbbd8e134c9f9b6dddea4d963367"
                 },
                 {
@@ -68,6 +70,7 @@
                     "icon": {
                         "default": "option3.png"
                     },
+                    "onClick": null,
                     "kuid": "e7a89094c4484b099d71af75ff3272b7"
                 },
                 {
@@ -76,7 +79,20 @@
                     "icon": {
                         "default": "option4.png"
                     },
+                    "onClick": null,
                     "kuid": "2b1b496e72c64b63b8f3632d80373405"
+                },
+                {
+                    "id": "appMenuId",
+                    "title": "Untitled",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "onClick": null,
+                    "render": {
+                        "iphone": "true"
+                    },
+                    "kuid": "506e7e87118d47cca884b9219f62c856"
                 }
             ]
         },
@@ -152,12 +168,26 @@
                 }
             ]
         },
-        "skin": null,
-        "focusSkin": null,
-        "focusskin": null,
+        "skin": "",
+        "focusSkin": "",
+        "focusskin": "",
         "osVersion": "iOS7",
         "osPlatform": "",
-        "wType": "Appmenu"
+        "wType": "Appmenu",
+        "context": {
+            "platform": "iphone",
+            "channel": "mobile"
+        }
     },
-    "tabletstartupformkey": "frmHome"
+    "tabletstartupformkey": "frmHome",
+    "projectCloudGuid": "179bae69-aa7e-4055-937b-2829e92a0df3",
+    "projectResourceCloudGuid": "eee5e17d-12a3-4490-9f64-7d31b42d473f",
+    "accountCloudGuid": "0b0cfe03-66e7-4da0-8141-b2993e6736fb",
+    "prototype": {
+        "createdOn": "2015-02-02T19:14:05.515Z",
+        "createdById": "0b0cfe03-66e7-4da0-8141-b2993e6736fb",
+        "createdBy": "Okode Developers",
+        "shareGuid": "GXI7K",
+        "resourceId": "cabe2f31-4a70-4f4f-b346-94224fce3ee9"
+    }
 }

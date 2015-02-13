@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "sbd41369bb9f439e9d5afd61bd0dae24",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "canUpdateUI": true,
+    "centerY": "50%",
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sb9284912126487faf61e51efb080d15",
+    "focusskin": "sb9284912126487faf61e51efb080d15",
+    "height": "80%",
+    "id": "btnProfile",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "c9bcfc68ce004dc8921f7eedae61a55a",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_aac0535766e4472991658f0a238a299b",
+    "onclick": "AS_Button_aac0535766e4472991658f0a238a299b",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "parent": "cntMain",
+    "pf": "hdrMapfre",
+    "render": true,
+    "right": "10dp",
+    "showProgressIndicator": false,
+    "showprogressindicator": false,
+    "skin": "sbd41369bb9f439e9d5afd61bd0dae24",
+    "text": "",
+    "top": "0dp",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "35dp",
+    "zIndex": 1,
+    "zindex": 1
+}

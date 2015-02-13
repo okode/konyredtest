@@ -1,0 +1,35 @@
+{
+	"AS_Form_6116627b5a894dbba1c8d411917ae902": {
+		"id": "AS_Form_6116627b5a894dbba1c8d411917ae902",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "TRANSFORM_ACTION___postShow_a729cfb97a1b4f599e0271bce29e6ba8",
+				"type": "TRANSFORM_ACTION",
+				"itemType": "FORM",
+				"itemId": "frmHome",
+				"widgetId": "__missing_id__",
+				"itemKUID": "70eea2eb6e764d0f91a52b321809f795",
+				"widgetKUID": "40274f86e64a4c2f94c7db4732ad4cd2",
+				"animationObject": {
+					"left": "300px",
+					"centerX": "50%",
+					"anchorPoint": {},
+					"stepConfig": {
+						"timingFunction": "kony.anim.EASE"
+					}
+				},
+				"config": {
+					"delay": "0",
+					"iterationCount": 1,
+					"fillMode": "kony.anim.FILL_MODE_FORWARDS",
+					"duration": "250",
+					"direction": "kony.anim.DIRECTION_ALTERNATE"
+				},
+				"start": "Immediately",
+				"animationId": "TRANSFORM_ACTION___postShow_a729cfb97a1b4f599e0271bce29e6ba8",
+				"displayAnimationId": "TRANSFORM_ACTION___postShow_a729cfb97a1b4f599e0271bce29e6ba8"
+			}
+		]
+	}
+}

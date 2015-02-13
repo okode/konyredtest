@@ -1,0 +1,13 @@
+{
+	"AS_Form_1d844b191350434cb44f7609244ef722": {
+		"id": "AS_Form_1d844b191350434cb44f7609244ef722",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_init_80f4156156584a459d9bad37433d62f0",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "//frmHome[\"debug\"][\"text\"] = String(frmHome[\"headers\"][1][\"isVisible\"]);\nfrmHome[\"headers\"][1][\"isVisible\"] = false;"
+			}
+		]
+	}
+}

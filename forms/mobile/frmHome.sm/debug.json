@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "393dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_placeholder_": "",
+    "_skin_": "se708904c1b1484eaf89dbceeed3e142",
+    "_text_": "TextArea2",
+    "_top_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "363dp"
+    },
+    "autoCapitalize": "none",
+    "autoComplete": false,
+    "autoCorrect": false,
+    "autoFilter": false,
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closeButtonText": "",
+    "closebuttontext": "",
+    "containerHeight": "",
+    "containerHeightMode": 1,
+    "containerWeight": 100,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentAlignment": 1,
+    "contentalignment": 1,
+    "enabled": false,
+    "height": "393dp",
+    "id": "debug",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "keyBoardStyle": "A",
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "13d23b0741b4461a8faea9f7044c085f",
+    "left": "6dp",
+    "margin": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberOfVisibleLines": 3,
+    "numberofvisiblelines": 3,
+    "padding": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "placeholder": "",
+    "render": true,
+    "secureTextEntry": false,
+    "securetextentry": false,
+    "showProgressIndicator": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "skin": "se708904c1b1484eaf89dbceeed3e142",
+    "text": "TextArea2",
+    "textInputMode": "A",
+    "textinputmode": "A",
+    "top": "18dp",
+    "viewType": "default",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "widgetAlignment": 5,
+    "width": "363dp"
+}
