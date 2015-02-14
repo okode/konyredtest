@@ -1,6 +1,7 @@
 {
     "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
     "DNDConfig": null,
+    "_footers_": [],
     "_headers_": [
         {
             "DNDConfig": null,
@@ -408,8 +409,9 @@
     "enabled": false,
     "enabledForIdleTimeout": false,
     "enabledforidletimeout": false,
-    "footerOverlap": false,
-    "footeroverlap": false,
+    "footer": "frmHome_footer",
+    "footerOverlap": true,
+    "footeroverlap": true,
     "header": "frmHome_header",
     "headerOverlap": true,
     "headeroverlap": true,
@@ -420,7 +422,7 @@
     "initdone": false,
     "inputAccessoryViewType": 4,
     "inputaccessoryviewtype": 4,
-    "invokedProperty": "headers",
+    "invokedProperty": "footers",
     "ipad": {
         "psp": {
             "inputAccessoryViewType": 4

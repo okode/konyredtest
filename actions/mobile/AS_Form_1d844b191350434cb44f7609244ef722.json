@@ -6,7 +6,19 @@
 			{
 				"id": "ADD_SNIPPET_init_80f4156156584a459d9bad37433d62f0",
 				"type": "ADD_SNIPPET",
-				"codeSnippet": "//frmHome[\"debug\"][\"text\"] = String(frmHome[\"headers\"][1][\"isVisible\"]);\nfrmHome[\"headers\"][1][\"isVisible\"] = false;"
+				"codeSnippet": "frmHome[\"debug\"][\"text\"] = String(frmHome[\"headers\"][1][1]);"
+			},
+			{
+				"id": "NAMED_ACTION",
+				"type": "NAMED_ACTION",
+				"sequenceKUID": "AS_NamedActions_51a7d2d4a2d34571a034c35b4ca3b94a",
+				"display": "hideLeftMenu"
+			},
+			{
+				"id": "NAMED_ACTION",
+				"type": "NAMED_ACTION",
+				"sequenceKUID": "AS_NamedActions_10093cebe584499eb2d9ba8067e27863",
+				"display": "hideRightMenu"
 			}
 		]
 	}

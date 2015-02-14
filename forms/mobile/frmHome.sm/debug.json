@@ -27,7 +27,7 @@
     "_text_": "TextArea2",
     "_top_": {
         "type": "string",
-        "value": "18dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -92,7 +92,7 @@
     "text": "TextArea2",
     "textInputMode": "A",
     "textinputmode": "A",
-    "top": "18dp",
+    "top": "0dp",
     "viewType": "default",
     "viewtype": "default",
     "wType": "TextArea",

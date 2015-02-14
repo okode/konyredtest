@@ -7,7 +7,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "ico_coches.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -17,7 +17,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "ico_hogar.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -27,7 +27,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "ico_cuadromedico.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -37,7 +37,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": ""
+                "src": "ico_asistviaje.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -47,7 +47,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": ""
+                "src": "ico_comunidades.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -57,7 +57,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": ""
+                "src": "ico_seguro_agrario_combinado.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -87,7 +87,7 @@
         0,
         0
     ],
-    "_rowTemplateId": "CopyFBox0112316c70b7d41",
+    "_rowTemplateId": "CopyFBox029cd7f6a507e4f",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -112,7 +112,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "ico_coches.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -122,7 +122,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "ico_hogar.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -132,7 +132,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "ico_cuadromedico.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -142,7 +142,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": ""
+                "src": "ico_asistviaje.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -152,7 +152,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": ""
+                "src": "ico_comunidades.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -162,7 +162,7 @@
         {
             "Image0b3405c6be91248": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": ""
+                "src": "ico_seguro_agrario_combinado.png"
             },
             "Label02e3e5385e54044": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -178,14 +178,14 @@
     "enabledictionary": false,
     "focusedindex": null,
     "focuseditem": null,
-    "generatedTemplate": "CopyFBox0112316c70b7d41",
-    "generatedtemplate": "8e89da623ce74efaa907792be796c029",
+    "generatedTemplate": "CopyFBox029cd7f6a507e4f",
+    "generatedtemplate": "0fbae95bf21f4143833121c804799698",
     "groupCells": false,
     "groupcells": false,
     "hasSections": false,
     "height": "240dp",
     "id": "segLeftMenu",
-    "indicator": "rowselect",
+    "indicator": "none",
     "info": null,
     "ipad": {
         "psp": {
@@ -202,7 +202,7 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "19a059107f5041598b37205f4d39037d",
+    "kuid": "6dc52443051f4eab9ace887e80cfe119",
     "left": "0dp",
     "margin": [
         0,
@@ -228,18 +228,18 @@
     "paginationconfig": {
         "vdistance": 1
     },
-    "parent": "cntMenus",
+    "parent": "cntLeftMenu",
     "pf": "hdrMapfre",
     "render": true,
     "retainSelection": false,
     "retainselection": false,
     "rowFocusSkin": "s13700586f7a4be1b074e1b9c030094a",
     "rowSkin": "s5cab7ece5524937a3aa29dba495adf8",
-    "rowTemplateId": "8e89da623ce74efaa907792be796c029",
+    "rowTemplateId": "0fbae95bf21f4143833121c804799698",
     "rowcounter": 5,
     "rowfocusskin": "s13700586f7a4be1b074e1b9c030094a",
     "rowskin": "s5cab7ece5524937a3aa29dba495adf8",
-    "rowtemplate": "CopyFBox0112316c70b7d41",
+    "rowtemplate": "CopyFBox029cd7f6a507e4f",
     "screenLevelWidget": false,
     "screenlevelwidget": false,
     "seccounter": 0,

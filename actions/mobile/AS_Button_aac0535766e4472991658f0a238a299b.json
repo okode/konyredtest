@@ -4,10 +4,10 @@
 		"type": "ACTION_SEQUENCE",
 		"actions": [
 			{
-				"id": "DISPLAY_POPUP__onClick_049dd62f99d04e33bf5c1bd2e5f9aedc",
-				"type": "DISPLAY_POPUP",
-				"popupId": "Popup01862846ad10249",
-				"popupKUID": "4867804826084c52bf56dd34308b4ba8"
+				"id": "NAMED_ACTION",
+				"type": "NAMED_ACTION",
+				"sequenceKUID": "AS_NamedActions_51a7d2d4a2d34571a034c35b4ca3b94a",
+				"display": "hideLeftMenu"
 			}
 		]
 	}

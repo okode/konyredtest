@@ -20,7 +20,8 @@
     "canUpdateUI": true,
     "children": [
         "cntMain",
-        "cntMenus"
+        "cntLeftMenu",
+        "cntRightMenu"
     ],
     "containerId": true,
     "containerWeight": 100,

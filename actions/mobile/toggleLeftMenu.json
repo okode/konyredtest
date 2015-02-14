@@ -8,6 +8,12 @@
 				"id": "ADD_SNIPPET_NamedActions_c6fad68ed3964f1ab96ac08d3ec2d769",
 				"type": "ADD_SNIPPET",
 				"codeSnippet": "var currentState = frmHome[\"headers\"][1][\"isVisible\"];\nfrmHome[\"headers\"][1][\"isVisible\"] = !currentState;"
+			},
+			{
+				"id": "NAMED_ACTION",
+				"type": "NAMED_ACTION",
+				"sequenceKUID": "AS_NamedActions_10093cebe584499eb2d9ba8067e27863",
+				"display": "hideRightMenu"
 			}
 		]
 	}
