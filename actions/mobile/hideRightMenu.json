@@ -1,0 +1,14 @@
+{
+	"AS_NamedActions_10093cebe584499eb2d9ba8067e27863": {
+		"id": "AS_NamedActions_10093cebe584499eb2d9ba8067e27863",
+		"type": "ACTION_SEQUENCE",
+		"name": "hideRightMenu",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_NamedActions_b8738426407e4e5dacda11ff914e6158",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmHome[\"headers\"][2][\"isVisible\"] = false;"
+			}
+		]
+	}
+}
