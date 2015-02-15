@@ -3,7 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "600dp"
+        "value": "105dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -17,11 +21,7 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_skin_": "s27b6a25135f40878f9909aea24e1e07",
+    "_skin_": "s1fea5b7d11a416ca97d1ced2bf48a86",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -32,13 +32,10 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
-    "centerX": "85%",
-    "centerx": {
-        "type": "string",
-        "value": "85%"
-    },
     "children": [
-        "FlexContainer01e4afd2721544c"
+        "Image03fda4eabf1eb40",
+        "Label0b3d732984bcd42",
+        "Label0340aa59897304f"
     ],
     "clipBounds": true,
     "clipbounds": true,
@@ -48,14 +45,15 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "600dp",
-    "id": "cntRightMenu",
+    "height": "105dp",
+    "id": "FlexContainer03e4398e6ce674f",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "3eed08a5e1af421a8ed85b54f874c930",
-    "layoutType": 4,
-    "layouttype": 4,
+    "kuid": "0ee3ae728cb34ddeabf24b48be82b755",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": "0dp",
     "margin": [
         0,
         0,
@@ -70,12 +68,11 @@
         0,
         0
     ],
-    "parent": "hdrMapfre",
+    "parent": "FlexContainer01e4afd2721544c",
     "percent": true,
     "pf": "hdrMapfre",
     "render": true,
-    "right": "0dp",
-    "skin": "s27b6a25135f40878f9909aea24e1e07",
+    "skin": "s1fea5b7d11a416ca97d1ced2bf48a86",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,

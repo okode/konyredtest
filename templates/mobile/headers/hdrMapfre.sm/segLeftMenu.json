@@ -185,7 +185,7 @@
     "hasSections": false,
     "height": "240dp",
     "id": "segLeftMenu",
-    "indicator": "none",
+    "indicator": "rowselect",
     "info": null,
     "ipad": {
         "psp": {

@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "240dp"
+        "value": "600dp"
     },
     "_margin_": [
         0,
@@ -32,7 +32,9 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "FlexContainer03e4398e6ce674f"
+    ],
     "clipBounds": true,
     "clipbounds": true,
     "containerId": true,
@@ -41,7 +43,7 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "240dp",
+    "height": "600dp",
     "id": "FlexContainer01e4afd2721544c",
     "info": null,
     "isVisible": true,
