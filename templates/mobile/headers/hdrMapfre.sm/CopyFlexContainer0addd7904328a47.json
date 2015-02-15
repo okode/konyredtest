@@ -5,6 +5,10 @@
         "type": "string",
         "value": "120dp"
     },
+    "_left_": {
+        "type": "number",
+        "value": "3"
+    },
     "_margin_": [
         0,
         0,
@@ -24,7 +28,7 @@
     "_skin_": "s5f948f0246a4124a502568e943d1810",
     "_top_": {
         "type": "string",
-        "value": "105dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -49,9 +53,10 @@
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "3c5a4c828f1f482eab8998e558a6fe04",
+    "kuid": "f113b96f4c0b4195af304fc91f74dfcf",
     "layoutType": 2,
     "layouttype": 2,
+    "left": 3,
     "margin": [
         0,
         0,
@@ -66,7 +71,7 @@
         0,
         0
     ],
-    "parent": "FlexContainer01e4afd2721544c",
+    "parent": "FlexContainer00cba3219c1f548",
     "percent": true,
     "pf": "hdrMapfre",
     "render": true,
@@ -76,7 +81,7 @@
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "105dp",
+    "top": "0dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,

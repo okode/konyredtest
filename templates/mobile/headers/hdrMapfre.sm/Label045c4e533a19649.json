@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "108dp"
-    },
     "_margin_": [
         1,
         1,
@@ -26,7 +22,7 @@
     "_text_": "Cerrar Sesion",
     "_top_": {
         "type": "string",
-        "value": "500dp"
+        "value": "15dp"
     },
     "_width_": {
         "type": "ref",
@@ -35,7 +31,12 @@
     "_wrapping_": 2,
     "canUpdateUI": true,
     "centerX": "50%",
+    "centerY": "50%",
     "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
         "type": "string",
         "value": "50%"
     },
@@ -63,8 +64,7 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "56250557ec3945098f834984fc3c7c13",
-    "left": "108dp",
+    "kuid": "3080a27dcaf345db832ab5f4e8d2c492",
     "margin": [
         1,
         1,
@@ -78,14 +78,14 @@
         0,
         0
     ],
-    "parent": "FlexContainer01e4afd2721544c",
+    "parent": "FlexContainer0785eded8e9c24c",
     "pf": "hdrMapfre",
     "render": true,
     "skin": "se2dca9272874cae97902b3919879458",
     "text": "Cerrar Sesion",
     "toolTip": "",
     "tooltip": "",
-    "top": "500dp",
+    "top": "15dp",
     "wType": "Label",
     "widgetAlignment": 5,
     "width": {

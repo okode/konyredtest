@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "55dp"
+        "value": "125dp"
     },
     "_left_": {
         "type": "string",
@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "se549693f07444c193f466671c0dc0fc",
+    "_skin_": "s8d7ac1faf324fce827b6f93b07f2994",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -33,24 +33,25 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "CopyLabel01a4c95476fda49",
-        "CopyImage0369e8373944348"
+        "FlexContainer031c1aef663be43",
+        "CopyFlexContainer0addd7904328a47"
     ],
     "clipBounds": true,
     "clipbounds": true,
+    "containerId": true,
     "containerWeight": 100,
     "containerweight": 100,
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "55dp",
-    "id": "CopyFlexContainer00d41a8a056db4a",
+    "height": "125dp",
+    "id": "FlexContainer00cba3219c1f548",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "e9923060f03941f88b0f795e0073ca55",
-    "layoutType": 2,
-    "layouttype": 2,
+    "kuid": "26ee57b691684a4d9b47e8880d48fe71",
+    "layoutType": 3,
+    "layouttype": 3,
     "left": "0dp",
     "margin": [
         0,
@@ -70,7 +71,7 @@
     "percent": true,
     "pf": "hdrMapfre",
     "render": true,
-    "skin": "se549693f07444c193f466671c0dc0fc",
+    "skin": "s8d7ac1faf324fce827b6f93b07f2994",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,

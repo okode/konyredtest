@@ -380,6 +380,9 @@
     "_title_": "",
     "addWidgetsdone": false,
     "allboxes": [],
+    "android": {
+        "needAppMenu": false
+    },
     "canUpdateUI": true,
     "children": [
         "debug"
@@ -429,6 +432,7 @@
         }
     },
     "iphone": {
+        "needAppMenu": false,
         "psp": {
             "configureExtendBottom": false,
             "configureExtendTop": false,
@@ -491,6 +495,15 @@
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
     "statusBarHidden": false,
     "title": "",
     "titleBar": false,
@@ -573,5 +586,8 @@
     "titlebar": false,
     "type": 3,
     "wType": "Form",
-    "widgetAlignment": 5
+    "widgetAlignment": 5,
+    "winphone8": {
+        "needAppMenu": false
+    }
 }

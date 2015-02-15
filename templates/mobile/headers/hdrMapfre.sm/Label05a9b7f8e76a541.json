@@ -36,7 +36,6 @@
         "type": "string",
         "value": "85%"
     },
-    "containerId": true,
     "containerWeight": 100,
     "containerweight": 100,
     "contentAlignment": 4,
@@ -60,7 +59,7 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "34a0f7e4256f42eab814ec68eeb2c4ab",
+    "kuid": "f9415a9cf1c64623936275336e1c90e8",
     "margin": [
         1,
         1,

@@ -24,7 +24,7 @@
     "_skin_": "s030cb50c84e4b179e6ce296466d0725",
     "_top_": {
         "type": "string",
-        "value": "228dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -49,7 +49,7 @@
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "ec44af796335446a9a4a50a4825c831a",
+    "kuid": "a21bf8a3ca2444ee8fbf49dd246f0cef",
     "layoutType": 2,
     "layouttype": 2,
     "left": "0dp",
@@ -67,7 +67,7 @@
         0,
         0
     ],
-    "parent": "FlexContainer01e4afd2721544c",
+    "parent": "FlexContainer00896c2dcfc6d4f",
     "percent": true,
     "pf": "hdrMapfre",
     "render": true,
@@ -76,7 +76,7 @@
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "228dp",
+    "top": "0dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,

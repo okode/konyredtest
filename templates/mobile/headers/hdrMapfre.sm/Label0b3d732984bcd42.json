@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "123dp"
+        "value": "108dp"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "Juan Carlos Soriano Bastida",
     "_top_": {
         "type": "string",
-        "value": "12dp"
+        "value": "7dp"
     },
     "_width_": {
         "type": "string",
@@ -34,7 +34,6 @@
     },
     "_wrapping_": 2,
     "canUpdateUI": true,
-    "containerId": true,
     "containerWeight": 100,
     "containerweight": 100,
     "contentAlignment": 4,
@@ -55,8 +54,8 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "a42f46b0f1204ba09587f2dcb74aea01",
-    "left": "123dp",
+    "kuid": "38dff1a8827c40d0a72041b8b4d8021b",
+    "left": "108dp",
     "margin": [
         1,
         1,
@@ -77,7 +76,7 @@
     "text": "Juan Carlos Soriano Bastida",
     "toolTip": "",
     "tooltip": "",
-    "top": "12dp",
+    "top": "7dp",
     "wType": "Label",
     "widgetAlignment": 5,
     "width": "150dp",
