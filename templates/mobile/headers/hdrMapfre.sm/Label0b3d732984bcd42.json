@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "80dp"
+        "value": "70dp"
     },
     "_left_": {
         "type": "string",
@@ -40,7 +40,7 @@
     "contentAlignment": 4,
     "contentalignment": 4,
     "enabled": false,
-    "height": "80dp",
+    "height": "70dp",
     "id": "Label0b3d732984bcd42",
     "info": null,
     "ipad": {

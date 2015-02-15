@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "540dp"
+        "value": "120dp"
     },
     "_margin_": [
         0,
@@ -21,26 +21,20 @@
         "type": "string",
         "value": "0dp"
     },
-    "_skin_": "s2dbbee0831641279a6920b3b4ad20e8",
+    "_skin_": "sca603cc3e9449bc9cf979a53e343eba",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "228dp"
     },
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "49.50%"
     },
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "FlexContainer03e4398e6ce674f",
-        "FlexContainer031c1aef663be43",
-        "CopyFlexContainer0addd7904328a47",
-        "CopyFlexContainer06d95ad22dd1f49",
-        "CopyFlexContainer0994cd6ff92184c",
-        "CopyFlexContainer0768338b2a02f47",
-        "CopyFlexContainer00d41a8a056db4a",
-        "Label045c4e533a19649"
+        "CopyLabel0b0567c5a88e942",
+        "CopyImage09c91d583815f41"
     ],
     "clipBounds": true,
     "clipbounds": true,
@@ -50,12 +44,12 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "540dp",
-    "id": "FlexContainer01e4afd2721544c",
+    "height": "120dp",
+    "id": "CopyFlexContainer0994cd6ff92184c",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "7c1ae022453d472cb6c302818fc45aa1",
+    "kuid": "f9dd695abacf4a1aa73ade3f898ff662",
     "layoutType": 2,
     "layouttype": 2,
     "margin": [
@@ -72,19 +66,21 @@
         0,
         0
     ],
-    "parent": "cntRightMenu",
+    "parent": "FlexContainer01e4afd2721544c",
     "percent": true,
     "pf": "hdrMapfre",
     "render": true,
     "right": "0dp",
-    "skin": "s2dbbee0831641279a6920b3b4ad20e8",
+    "skin": "sca603cc3e9449bc9cf979a53e343eba",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "0dp",
+    "top": "228dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,
-    "width": "80%"
+    "width": "49.50%",
+    "zIndex": 1,
+    "zindex": 1
 }

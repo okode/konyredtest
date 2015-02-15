@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_margin_": [
         1,
         1,
@@ -19,32 +15,38 @@
     "_padding_": [
         0,
         0,
-        5,
+        0,
         0
     ],
-    "_skin_": "sbbab94c10f945b199845b401de53f06",
-    "_text_": "Area Privada",
-    "_top_": {
-        "type": "string",
-        "value": "82dp"
-    },
+    "_skin_": "s712963e575f49fbbf63d8eb50227a2d",
+    "_text_": "Mi coche",
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "canUpdateUI": true,
+    "centerX": "50%",
+    "centerY": "85%",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "85%"
+    },
     "containerId": true,
     "containerWeight": 100,
     "containerweight": 100,
-    "contentAlignment": 6,
-    "contentalignment": 6,
+    "contentAlignment": 4,
+    "contentalignment": 4,
     "enabled": false,
     "height": {
         "type": "ref",
         "value": "preferred"
     },
-    "id": "Label0340aa59897304f",
+    "id": "Label05a9b7f8e76a541",
     "info": null,
     "ipad": {
         "psp": {
@@ -58,8 +60,7 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "5edf1fd6c0fd42538ee8abc4a65f2f0f",
-    "left": "0dp",
+    "kuid": "34a0f7e4256f42eab814ec68eeb2c4ab",
     "margin": [
         1,
         1,
@@ -70,22 +71,22 @@
     "padding": [
         0,
         0,
-        5,
+        0,
         0
     ],
-    "paddingInPixel": false,
-    "paddinginpixel": false,
-    "parent": "FlexContainer03e4398e6ce674f",
+    "parent": "FlexContainer031c1aef663be43",
     "pf": "hdrMapfre",
     "render": true,
-    "skin": "sbbab94c10f945b199845b401de53f06",
-    "text": "Area Privada",
+    "skin": "s712963e575f49fbbf63d8eb50227a2d",
+    "text": "Mi coche",
     "toolTip": "",
     "tooltip": "",
-    "top": "82dp",
     "wType": "Label",
     "widgetAlignment": 5,
-    "width": "100%",
+    "width": {
+        "type": "ref",
+        "value": "preferred"
+    },
     "wrapping": 2,
     "zIndex": 1,
     "zindex": 1

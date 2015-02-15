@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sc404e4656684e1c851277dd66536b9b",
+    "_src_": "btn_arrow.png",
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "base64": null,
+    "canUpdateUI": true,
+    "centerY": "50%",
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "iphone",
+        "templateType": "headers",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "height": "23dp",
+    "id": "Image0307992ef63df4f",
+    "imageScaleMode": 1,
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "a5d91c9881ec45cc876fdd25a6a4a4d5",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Image2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyFlexContainer0768338b2a02f47",
+    "pf": "hdrMapfre",
+    "render": true,
+    "right": "20dp",
+    "skin": "sc404e4656684e1c851277dd66536b9b",
+    "src": "btn_arrow.png",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "width": "30dp",
+    "zIndex": 1,
+    "zindex": 1
+}

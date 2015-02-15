@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "108dp"
     },
     "_margin_": [
         1,
@@ -19,32 +19,37 @@
     "_padding_": [
         0,
         0,
-        5,
+        0,
         0
     ],
-    "_skin_": "sbbab94c10f945b199845b401de53f06",
-    "_text_": "Area Privada",
+    "_skin_": "se2dca9272874cae97902b3919879458",
+    "_text_": "Cerrar Sesion",
     "_top_": {
         "type": "string",
-        "value": "82dp"
+        "value": "500dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "canUpdateUI": true,
+    "centerX": "50%",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerId": true,
     "containerWeight": 100,
     "containerweight": 100,
-    "contentAlignment": 6,
-    "contentalignment": 6,
+    "contentAlignment": 4,
+    "contentalignment": 4,
     "enabled": false,
     "height": {
         "type": "ref",
         "value": "preferred"
     },
-    "id": "Label0340aa59897304f",
+    "id": "Label045c4e533a19649",
     "info": null,
     "ipad": {
         "psp": {
@@ -58,8 +63,8 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "5edf1fd6c0fd42538ee8abc4a65f2f0f",
-    "left": "0dp",
+    "kuid": "56250557ec3945098f834984fc3c7c13",
+    "left": "108dp",
     "margin": [
         1,
         1,
@@ -70,22 +75,23 @@
     "padding": [
         0,
         0,
-        5,
+        0,
         0
     ],
-    "paddingInPixel": false,
-    "paddinginpixel": false,
-    "parent": "FlexContainer03e4398e6ce674f",
+    "parent": "FlexContainer01e4afd2721544c",
     "pf": "hdrMapfre",
     "render": true,
-    "skin": "sbbab94c10f945b199845b401de53f06",
-    "text": "Area Privada",
+    "skin": "se2dca9272874cae97902b3919879458",
+    "text": "Cerrar Sesion",
     "toolTip": "",
     "tooltip": "",
-    "top": "82dp",
+    "top": "500dp",
     "wType": "Label",
     "widgetAlignment": 5,
-    "width": "100%",
+    "width": {
+        "type": "ref",
+        "value": "preferred"
+    },
     "wrapping": 2,
     "zIndex": 1,
     "zindex": 1

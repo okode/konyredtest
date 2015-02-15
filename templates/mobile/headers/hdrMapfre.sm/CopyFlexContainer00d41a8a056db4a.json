@@ -3,7 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "540dp"
+        "value": "64dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -17,30 +21,20 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_skin_": "s2dbbee0831641279a6920b3b4ad20e8",
+    "_skin_": "se549693f07444c193f466671c0dc0fc",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "418dp"
     },
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "100%"
     },
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "FlexContainer03e4398e6ce674f",
-        "FlexContainer031c1aef663be43",
-        "CopyFlexContainer0addd7904328a47",
-        "CopyFlexContainer06d95ad22dd1f49",
-        "CopyFlexContainer0994cd6ff92184c",
-        "CopyFlexContainer0768338b2a02f47",
-        "CopyFlexContainer00d41a8a056db4a",
-        "Label045c4e533a19649"
+        "CopyLabel01a4c95476fda49",
+        "CopyImage0369e8373944348"
     ],
     "clipBounds": true,
     "clipbounds": true,
@@ -50,14 +44,15 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "540dp",
-    "id": "FlexContainer01e4afd2721544c",
+    "height": "64dp",
+    "id": "CopyFlexContainer00d41a8a056db4a",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "7c1ae022453d472cb6c302818fc45aa1",
+    "kuid": "d526ca3ebfa149d591ac2e231e98ad53",
     "layoutType": 2,
     "layouttype": 2,
+    "left": "0dp",
     "margin": [
         0,
         0,
@@ -72,19 +67,20 @@
         0,
         0
     ],
-    "parent": "cntRightMenu",
+    "parent": "FlexContainer01e4afd2721544c",
     "percent": true,
     "pf": "hdrMapfre",
     "render": true,
-    "right": "0dp",
-    "skin": "s2dbbee0831641279a6920b3b4ad20e8",
+    "skin": "se549693f07444c193f466671c0dc0fc",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "0dp",
+    "top": "418dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,
-    "width": "80%"
+    "width": "100%",
+    "zIndex": 1,
+    "zindex": 1
 }
